@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SeekBarExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_red">Red</string>
+    <string name="text_green">Green</string>
+    <string name="text_blue">Blue</string>
+    <string name="text_hex">HEX:</string>
+    <string name="text_rgb">RGB:</string>
+    <string name="result_hex">#000000</string>
+    <string name="result_rgb">(0,0,0)</string>
+
+</resources>
